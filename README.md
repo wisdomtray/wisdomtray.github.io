@@ -1,1 +1,6 @@
-wisdomtray
+
+pages:
+
+http://wisdomtray.github.io/
+
+
